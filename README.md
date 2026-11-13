@@ -39,9 +39,9 @@ If `lumapi` is not importable, set `LUMAPI_PATH` to Lumerical's `api/python` fol
 Generated into `images/` by `analysis/fit_and_transient.py`:
 
 ![Fitted spectrum](reference_model/images/01_varfdtd_spectrum_fit.png)
-![Resonance shift](images/02_resonance_shift.png)
-![Transient response](images/03_transient_response.png)
-![Overshoot vs step size](images/04_overshoot_vs_shift.png)
+![Resonance shift](reference_model/images/02_resonance_shift.png)
+![Transient response](reference_model/images/03_transient_response.png)
+![Overshoot vs step size](reference_model/images/04_overshoot_vs_shift.png)
 
 Key numbers (loaded Q, FSR, linewidth, resonance shift per index step, peak overshoot) are written to `data/summary.json`.
 
